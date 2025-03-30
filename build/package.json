@@ -1,0 +1,21 @@
+{
+  "name": "daybreak_website",
+  "version": "1.0.0",
+  "description": "Daybreak Basketball Program Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "basketball",
+    "youth",
+    "program",
+    "technology",
+    "development"
+  ],
+  "author": "Daybreak Basketball Program",
+  "license": "ISC"
+}

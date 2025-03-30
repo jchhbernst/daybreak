@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="50px" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Daybreak Basketball Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M20,0 C31.0457,0 40,8.9543 40,20 C40,31.0457 31.0457,40 20,40 C8.9543,40 0,31.0457 0,20 C0,8.9543 8.9543,0 20,0 Z M20,5 C11.7157,5 5,11.7157 5,20 C5,28.2843 11.7157,35 20,35 C28.2843,35 35,28.2843 35,20 C35,11.7157 28.2843,5 20,5 Z"></path>
+            <path d="M20,10 C25.5228,10 30,14.4772 30,20 C30,25.5228 25.5228,30 20,30 C14.4772,30 10,25.5228 10,20 C10,14.4772 14.4772,10 20,10 Z"></path>
+            <path d="M50,10 L60,10 L60,40 L50,40 L50,10 Z"></path>
+            <path d="M65,10 L75,10 L85,25 L85,10 L95,10 L95,40 L85,40 L75,25 L75,40 L65,40 L65,10 Z"></path>
+            <path d="M100,10 L125,10 L125,20 L110,20 L110,22 L120,22 L120,30 L110,30 L110,32 L125,32 L125,40 L100,40 L100,10 Z"></path>
+            <path d="M130,10 L140,10 L150,25 L150,10 L160,10 L160,40 L150,40 L140,25 L140,40 L130,40 L130,10 Z"></path>
+            <path d="M165,10 L175,10 L175,30 L190,30 L190,40 L165,40 L165,10 Z"></path>
+        </g>
+        <text font-family="Exo 2, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF">
+            <tspan x="50" y="48">BASKETBALL PROGRAM</tspan>
+        </text>
+    </g>
+</svg>
